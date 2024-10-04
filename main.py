@@ -1,3 +1,4 @@
+#NOTE THAT THIS GAME WAS WRITTEN IN HUNGARIAN
 import os
 from itertools import chain
 from functools import lru_cache
